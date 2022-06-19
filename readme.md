@@ -10,6 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-run docker-compose up from the project root directory to load Anythink's backend and frontend
-
-Let's test this by pointing your browser to http://localhost:3000/api/ping
+run docker-compose up
